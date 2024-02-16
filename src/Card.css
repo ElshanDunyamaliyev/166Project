@@ -1,0 +1,30 @@
+.mycard {
+  width: 350px;
+  height: 350px;
+  background-color: #fafafa;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.timer p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.star {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.section2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

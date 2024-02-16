@@ -1,0 +1,29 @@
+.btnOrder {
+  display: flex;
+  flex-direction: column;
+}
+
+.imtahanSec {
+  background-color: #fafafa;
+  border-radius: 10px;
+  width: 300px;
+  padding: 10px;
+  height: max-content;
+  text-align: left;
+}
+
+.categoryBtn {
+  width: 250px;
+  height: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #fafafa;
+  border-width: 0;
+  text-align: left;
+}
+
+.categoryBtn:hover {
+  background-color: black;
+  color: white;
+}

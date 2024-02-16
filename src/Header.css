@@ -1,0 +1,27 @@
+.header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 24px;
+}
+
+.header select{
+    border: 0;
+}
+
+.header h4{
+    margin: 0;
+}
+
+.header button{
+    margin-left: 10px;
+}
+
+.melumat{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
