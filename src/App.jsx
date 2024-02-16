@@ -4,12 +4,14 @@ import Content from "./Content";
 import Footer from "./Footer";
 import ExamType from "./ExamType";
 import Card from "./Card";
+import ImtahanContent from "./ImtahanContent";
 
 function App() {
   return (
     <>
       <Header />
-      <Content />
+      {/* <Content /> */}
+      <ImtahanContent />
       <Footer />
     </>
   );

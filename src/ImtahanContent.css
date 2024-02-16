@@ -1,0 +1,47 @@
+.blackDiv {
+  position: relative;
+  width: 1160px;
+  height: 400px;
+  padding: 40px 30px;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+}
+
+.whiteBtn {
+  margin: 20px;
+}
+
+img {
+  position: absolute;
+  background: black;
+  right: 15%;
+  bottom: 0;
+  width: 320px;
+  height: 320px;
+  /* transform: translate("-20%", "20"); */
+}
+
+.imtahanMelumat {
+  width: 450px;
+  background: #fafafa;
+  padding: 30px;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+.iconsDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sameDiv {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+p {
+  margin: 0;
+}
